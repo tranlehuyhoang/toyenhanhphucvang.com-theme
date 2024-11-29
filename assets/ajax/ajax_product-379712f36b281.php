@@ -3,7 +3,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-to-yen-hanh-phuc-vang" title="Giỏ Quà Tổ Yến Hạnh Phúc Vàng "> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08204-3580.jpg"
                         alt="Giỏ Quà Tổ Yến Hạnh Phúc Vàng " />
                 </a>
@@ -23,7 +23,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-15" title="Giỏ quà yến 15"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08209-2139.jpg"
                         alt="Giỏ quà yến 15" />
                 </a>
@@ -43,7 +43,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-12" title="Giỏ quà yến 12"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08218-2178.jpg"
                         alt="Giỏ quà yến 12" />
                 </a>
@@ -63,7 +63,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-04" title="Giỏ quà yến  04"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08278-6358.jpg"
                         alt="Giỏ quà yến  04" />
                 </a>
@@ -83,7 +83,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-02" title="Giỏ quà yến 02"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08286-3150.jpg"
                         alt="Giỏ quà yến 02" />
                 </a>
@@ -103,7 +103,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-00" title="Giỏ quà yến 00"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08238-2446.jpg"
                         alt="Giỏ quà yến 00" />
                 </a>
@@ -123,7 +123,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-05" title="Giỏ quà yến  05"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08269-9011.jpg"
                         alt="Giỏ quà yến  05" />
                 </a>
@@ -143,7 +143,7 @@
         <div class="text-decoration-none">
             <p class="pic-product hover_xam">
                 <a href="gio-qua-yen-01" title="Giỏ quà yến 01"> <img
-                        onerror="this.src='watermark/product/540x540x1/assets/images/noimage.png';"
+                        data='watermark/product/540x540x1/assets/images/noimage.png';"
                         src="watermark/product/540x540x1/upload/product/dsc08294-7655.jpg"
                         alt="Giỏ quà yến 01" />
                 </a>
